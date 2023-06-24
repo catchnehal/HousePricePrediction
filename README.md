@@ -1,1 +1,2 @@
 # HousePricePrediction
+A machine learning model built using a bangalore houses dataset, fetched from kaggle. The model is trained and tested to give out desired results, holding an accuracy of 86%. The model predicts the prices on the web app developed using Python's flask framework,bootstrap and a bit of javascript. The user just has to input the details of the kind of flat they are desiring to look out for.
